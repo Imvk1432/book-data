@@ -1,0 +1,28 @@
+{
+    "books": [
+      {
+        "id": "1",
+        "title": "Ken",
+        "author": "Kane",
+        "price": "785"
+      },
+      {
+        "id": "2",
+        "title": "Her",
+        "author": "Ammy",
+        "price": "896"
+      },
+      {
+        "id": "3",
+        "title": "jd",
+        "author": "ANi",
+        "price": "233"
+      },
+      {
+        "id": "4",
+        "title": "jika",
+        "author": "Abi",
+        "price": "566"
+      }
+    ]
+  }
